@@ -75,7 +75,7 @@ else
 <?php } ?>
 <?php } ?>
 <hr />
-<p class="muted pull-right"><a href="https://github.com/jeckman/YouTube-Downloader" target="_blank">Youtube Downloader <?php echo $this->get('app_version', ''); ?></a> is licensed under GPL 2.</p>
+<p class="muted pull-right"><a href="https://github.com/Humilton/YouTube-Downloader" target="_blank">Youtube Downloader <?php echo $this->get('app_version', ''); ?></a> is licensed under GPL 2.<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1273607978'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s13.cnzz.com/z_stat.php%3Fid%3D1273607978%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script></p>
 	<div class="clearfix"></div>
 </div>
 <?php echo $this->inc('footer.php'); ?>
